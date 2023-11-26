@@ -1,0 +1,7 @@
+Here are all the updates of Altrea TOS:
+
+v1.0:
+  - Initial release
+v1.01:
+  - Added the ability to set a built-in file to a github file.
+  - Added the ability to download a built-in file to your local system.
